@@ -1,0 +1,34 @@
+.card:hover{
+    transform: scale(1.1);
+    transition: 0.7s ease;
+  }
+
+.card i{
+    
+
+}
+.background{
+  background-image: url(images/istockphoto-1339076397-170667a.jpg);
+  background-size: cover;
+}
+
+.blockquote{
+  text-align: center;
+  color:antiquewhite;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
+}
+
+.card-header{
+  text-align: center;
+  background-color: silver;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
+}
+
+.text-dark span{
+  color:  #1567a1;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-size: bold;
+}
